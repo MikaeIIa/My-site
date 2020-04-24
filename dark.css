@@ -1,0 +1,67 @@
+body {
+     background: #9C0002;
+     color: #ffffff;	 
+}
+
+#header {
+     background-color: #555555;
+	
+}
+ 
+#container {
+     background-color: #9C0002;
+     
+}
+ 
+
+
+#content {
+     background-color: #000;
+ 
+}
+ 
+ 
+#footer {
+    background: #555555;
+}
+
+#content1 {
+
+	outline: 1px solid #fff;
+}
+#content2 {
+
+	outline: 1px solid #fff;
+}
+#content3 {
+
+	outline: 1px solid #fff;
+}
+
+
+#content4 {
+
+	outline: 1px solid #fff;
+
+}
+#content5 {
+
+	outline: 1px solid #fff;
+}
+#content6 {
+
+	outline: 1px solid #fff;
+}
+
+
+
+#content7 {
+	
+	outline: 1px solid #fff;
+}
+
+#content8 {
+	
+	outline: 1px solid #fff;
+
+}
